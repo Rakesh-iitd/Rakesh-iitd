@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm RAKESH SHARMA</h1>
+<h1 align="center">Hello 👋, I'm RAKESH </h1>
 <h3 align="center">NAMASTE EVERYONE!</h3>
 
 - 🔭 I’m currently developing: **NEW OPERATING SYSTEM**
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **SOLVING MARKET CAPITALS**
 
-- 🤝 I’m looking for help with: **JAVA**
+- 🤝 I’m looking for help with: **PROLOG**
 
 - 👨‍💻 All of my projects are available at: [GITHUB](GITHUB)
 
